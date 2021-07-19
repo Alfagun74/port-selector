@@ -1,5 +1,5 @@
 <script lang="typescript">
-  import portsData from "./data/ports.json";
+  import portsData from "./data/ports";
   import cc from "camelcase-keys";
   import type { PortInfo } from "./models";
 
